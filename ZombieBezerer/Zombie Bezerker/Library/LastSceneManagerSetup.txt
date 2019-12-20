@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Basement_And_Sewerage_Modular_Location/Scenes/SampleScene.unity
+- path: Assets/Map_v1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
